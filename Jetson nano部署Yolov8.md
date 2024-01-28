@@ -12,11 +12,7 @@
 
 > 注意下载完成后是压缩文件，要解压
 
-![截屏2024-01-27 22.29.27](https://raw.githubusercontent.com/CANLAN-SC/picturesMKD/main/imgs/截屏2024-01-27 22.29.27.png)
-
 ## 2. 安装烧录工具[Etcher](https://www.balena.io/etcher)
-
-![截屏2024-01-27 22.34.46](https://raw.githubusercontent.com/CANLAN-SC/picturesMKD/main/imgs/截屏2024-01-27 22.34.46-6368779.png)
 
 ## 3. 烧录说明
 
